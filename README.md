@@ -17,5 +17,5 @@
 
 # Contact me! 
 [Discord](https://discord.com/users/cowboyjustin)
-[LinkedIn]()
+[LinkedIn](https://www.linkedin.com/)
 [E-Mail](mailto:Justin@cowboyjustin.com?subject=[GitHub])
